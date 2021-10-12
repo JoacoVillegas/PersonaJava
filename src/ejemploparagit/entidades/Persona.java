@@ -13,6 +13,7 @@ public class Persona {
     public String nacionalidad;
     public int edad;
     public String sexo;
+    public int DNI;
 
     public Persona() {
     }
